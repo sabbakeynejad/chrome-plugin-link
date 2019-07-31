@@ -1,2 +1,2 @@
 # chrome-plugin-link
-A chrome plugin just opens a link a new tab
+This is a littel growth hack experment. Can i just a chrome plugin to drive traffic to my website.
